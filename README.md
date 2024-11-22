@@ -118,3 +118,20 @@ Projeyi yerel bir ortamda çalıştırmak için:
 Los Angeles Suç Verisi Analizi projesi, verinin gücünü kullanarak şehirdeki suç oranlarını daha iyi anlamak için güçlü bir araçtır. Folium ile görselleştirme ve Seaborn ile grafik analizleri sayesinde, suç verilerinin kullanıcı dostu bir şekilde sunulması sağlanmıştır.
 
 🎉 **Teşekkürler!**
+
+## **🔗 Bizi Takip Edin!**
+
+Projelerimizi ve çalışmalarımızı daha yakından takip etmek veya bizimle iletişim kurmak isterseniz aşağıdaki bağlantılardan ulaşabilirsiniz:
+
+-   **Aslı Şemşimoğlu**✨
+    
+    -   💻 [Kaggle](https://www.kaggle.com/aslemimolu)
+    -   💼 [LinkedIn](https://linkedin.com/in/aslisemsimoglu)
+    -   📊 [Github](https://github.com/aslisemsimoglu)
+-   **Berke Çelebi**✨
+    
+    -   💻 [Kaggle](https://www.kaggle.com/berkeee)
+    -   💼 [LinkedIn](https://www.linkedin.com/in/berke-celebi/)
+    -   📊 [Github](https://github.com/Berkexyz)
+
+----------
