@@ -9,9 +9,9 @@ Bu proje, Los Angeles'taki suç verilerini analiz ederek suç türlerinin zaman 
 ## **Proje Ekibi**
 
 -   **Aslı Şemşimoğlu**:  
-    Afyon Kocatepe Üniversitesi Bilgisayar Mühendisliği 4. sınıf öğrencisi. Doğal dil işleme (NLP) ve makine öğrenimi konularında uzmanlaşmış, Kaggle'da aktif bir veri bilimci.
+    Afyon Kocatepe Üniversitesi Bilgisayar Mühendisliği 4. sınıf öğrencisiyim. Özellikle **doğal dil işleme (NLP)** ve **makine öğrenimi** üzerine projeler geliştiriyorum. Kaggle'da aktif bir kullanıcı olarak veri analitiği projelerine katkı sağlamaktan büyük keyif alıyorum. 
 -   **Berke Çelebi**:  
-    Fenerbahçe Üniversitesi Yönetim Bilişim Sistemleri 3. sınıf öğrencisi. Veri analitiği ve makine öğrenimi üzerine çalışmalar yapmakta ve bu alandaki projeleriyle dikkat çekmektedir.
+    Fenerbahçe Üniversitesi Yönetim Bilişim Sistemleri 3. sınıf öğrencisiyim. Özellikle **makine öğrenimi** ve **veri analitiği** konularında projeler geliştiriyorum. Aldığım eğitimler ve üzerinde çalıştığım projelerle bu alandaki bilgimi derinleştirmekten büyük keyif alıyorum. 
 
 ----------
 
